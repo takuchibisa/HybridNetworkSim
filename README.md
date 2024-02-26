@@ -42,7 +42,7 @@
 
 <h2>Network Topoloy </h2>
 
-<img src="https://i.imgur.com/HIueCqh" height="80%" width="80%" alt="Network Topology"/>
+<img src="https://i.imgur.com/HIueCqh.jpeg" height="80%" width="80%" alt="Network Topology"/>
 <br />
 
 
